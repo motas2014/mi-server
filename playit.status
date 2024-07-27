@@ -1,29 +1,359 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722030637860 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722105737787 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722030640908 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722105741218 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722030644114 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722105744380 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722030647249 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722105747455 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722030650285 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722105750493 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722030653350 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722105753710 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105756752 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105759808 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105762885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105766002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105769090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105772126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105775166 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105778222 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105781272 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105784318 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105787444 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105790497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105793653 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105796698 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105799799 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105802894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105805973 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105809059 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105812109 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105815173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105818246 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105821344 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105824377 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105827412 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105830463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105833555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105836809 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105839901 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105843049 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105846112 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105849172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105852238 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105855292 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105858350 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105861412 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105864477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105867525 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105870582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105873641 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105876729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105879787 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105882845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105885894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105888955 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105892012 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105895110 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105898153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105901808 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105905422 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105908661 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105911720 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105914775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105917837 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105920984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105924266 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105927321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105930442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105933489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105936592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105939771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105942841 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105946209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105949273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105952311 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105955351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722105958402 tunnel running, 1 tunnels registered
 
 
 TUNNELS
