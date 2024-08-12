@@ -1,1 +1,454 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723499921355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723499924434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723499939533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723499954641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723499957709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723499972819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723499987919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723499990980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500006088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500021183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500024247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500039363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500042424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500057526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500072645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500075708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500090828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500105921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500108993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500124105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500127166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500142269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500157371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500160432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500175618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500190711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500193766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500208856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500223949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500227009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500242111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500257212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500272311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500275374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500290471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500305579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500320683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500323749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500338839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500341898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500357011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500360076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500363150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500378246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500381308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500396408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500399477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500414572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500417642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500432736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500435795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500450886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500453954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500469058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500472114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500475176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723500490273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1723500493330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+mountain-nelson.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+morning-cut.gl.at.ply.gg:4984 => 127.0.0.1:4984 (minecraft-bedrock)
