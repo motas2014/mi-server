@@ -94,11 +94,56 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-bedrock"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "hill-hard.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "0b50c1ce-f933-441e-9aa7-2cbd5facc831",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 2582,
+          "port_start": 2581,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-08-13T22:53:57.685528Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "32d06333-b012-4ba8-8a83-1ccb36e570fd",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "9e8b92fe-187b-4827-a1d6-c47389499a95",
+          "agent_name": "from-key-9928",
+          "local_ip": "127.0.0.1",
+          "local_port": 2581
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 2,
+    "desired": 2
   }
 }
