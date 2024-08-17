@@ -1,348 +1,864 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723667907047 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723912264790 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnQI_AAAAAQAAAAEAAAAAAAAAAJfKDWKC0UZm5n6gkGvyI6Aq8FKvessk5IKhfu2yDHW1
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667910184 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnQI_AAAAAQAAAAEAAAAAAAAAAJfKDWKC0UZm5n6gkGvyI6Aq8FKvessk5IKhfu2yDHW1
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLZyPAAAAAQAAAAEAAAAAAAAAAKIRL09vvLWhQY6siYBVdNg9r1dzl5JjAYrPhCU_k7FO
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667913245 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912267923 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnQI_AAAAAQAAAAEAAAAAAAAAAJfKDWKC0UZm5n6gkGvyI6Aq8FKvessk5IKhfu2yDHW1
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667916309 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnQI_AAAAAQAAAAEAAAAAAAAAAJfKDWKC0UZm5n6gkGvyI6Aq8FKvessk5IKhfu2yDHW1
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLZyPAAAAAQAAAAEAAAAAAAAAAKIRL09vvLWhQY6siYBVdNg9r1dzl5JjAYrPhCU_k7FO
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667919374 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912270991 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnQI_AAAAAQAAAAEAAAAAAAAAAJfKDWKC0UZm5n6gkGvyI6Aq8FKvessk5IKhfu2yDHW1
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667922430 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnT5HAAAAAQAAAAEAAAAAAAAAAFXQrIN3aTWURNw1cTKDaEIf19-qcNXxNdmXXdkeTys3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLZyPAAAAAQAAAAEAAAAAAAAAAKIRL09vvLWhQY6siYBVdNg9r1dzl5JjAYrPhCU_k7FO
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667925543 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912274058 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnT5HAAAAAQAAAAEAAAAAAAAAAFXQrIN3aTWURNw1cTKDaEIf19-qcNXxNdmXXdkeTys3
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667928640 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnT5HAAAAAQAAAAEAAAAAAAAAAFXQrIN3aTWURNw1cTKDaEIf19-qcNXxNdmXXdkeTys3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLZyPAAAAAQAAAAEAAAAAAAAAAKIRL09vvLWhQY6siYBVdNg9r1dzl5JjAYrPhCU_k7FO
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667931697 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912277121 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnT5HAAAAAQAAAAEAAAAAAAAAAFXQrIN3aTWURNw1cTKDaEIf19-qcNXxNdmXXdkeTys3
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667934759 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnT5HAAAAAQAAAAEAAAAAAAAAAFXQrIN3aTWURNw1cTKDaEIf19-qcNXxNdmXXdkeTys3
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLZyPAAAAAQAAAAEAAAAAAAAAAKIRL09vvLWhQY6siYBVdNg9r1dzl5JjAYrPhCU_k7FO
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667937815 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912280291 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnXpkAAAAAQAAAAEAAAAAAAAAAFvVRbf6nTXlMQ-yxMx87UZqiLKPmxitTr8kGgTdfZVt
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667940924 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnXpkAAAAAQAAAAEAAAAAAAAAAFvVRbf6nTXlMQ-yxMx87UZqiLKPmxitTr8kGgTdfZVt
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLdk3AAAAAQAAAAEAAAAAAAAAAIsFXsZdvXVQsynnHeVBLLiV_Ut9Ui_8WjAYDo8V93v0
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667943983 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912283470 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnXpkAAAAAQAAAAEAAAAAAAAAAFvVRbf6nTXlMQ-yxMx87UZqiLKPmxitTr8kGgTdfZVt
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667947050 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnXpkAAAAAQAAAAEAAAAAAAAAAFvVRbf6nTXlMQ-yxMx87UZqiLKPmxitTr8kGgTdfZVt
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLdk3AAAAAQAAAAEAAAAAAAAAAIsFXsZdvXVQsynnHeVBLLiV_Ut9Ui_8WjAYDo8V93v0
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667950121 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912286537 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnXpkAAAAAQAAAAEAAAAAAAAAAFvVRbf6nTXlMQ-yxMx87UZqiLKPmxitTr8kGgTdfZVt
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667953183 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnbZvAAAAAQAAAAEAAAAAAAAAABP1sXLHChjTMez8zYC3eAnaXPKyG-iSfpp29qT01u1u
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLdk3AAAAAQAAAAEAAAAAAAAAAIsFXsZdvXVQsynnHeVBLLiV_Ut9Ui_8WjAYDo8V93v0
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667956338 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912289600 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnbZvAAAAAQAAAAEAAAAAAAAAABP1sXLHChjTMez8zYC3eAnaXPKyG-iSfpp29qT01u1u
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667959407 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnbZvAAAAAQAAAAEAAAAAAAAAABP1sXLHChjTMez8zYC3eAnaXPKyG-iSfpp29qT01u1u
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLdk3AAAAAQAAAAEAAAAAAAAAAIsFXsZdvXVQsynnHeVBLLiV_Ut9Ui_8WjAYDo8V93v0
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667962470 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912292660 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnbZvAAAAAQAAAAEAAAAAAAAAABP1sXLHChjTMez8zYC3eAnaXPKyG-iSfpp29qT01u1u
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667965527 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnbZvAAAAAQAAAAEAAAAAAAAAABP1sXLHChjTMez8zYC3eAnaXPKyG-iSfpp29qT01u1u
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLdk3AAAAAQAAAAEAAAAAAAAAAIsFXsZdvXVQsynnHeVBLLiV_Ut9Ui_8WjAYDo8V93v0
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667968588 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912295724 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnfKVAAAAAQAAAAEAAAAAAAAAACOa3wSqPLCLfcc_q4vbdRjsydofVa--QBONJzYFzY3O
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667971713 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnfKVAAAAAQAAAAEAAAAAAAAAACOa3wSqPLCLfcc_q4vbdRjsydofVa--QBONJzYFzY3O
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLhVcAAAAAQAAAAEAAAAAAAAAAE9Cdw6F2mClNvIaCBEeunjJoPegNZ7GsDDggvLrZtJF
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667974776 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912298843 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnfKVAAAAAQAAAAEAAAAAAAAAACOa3wSqPLCLfcc_q4vbdRjsydofVa--QBONJzYFzY3O
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667977833 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnfKVAAAAAQAAAAEAAAAAAAAAACOa3wSqPLCLfcc_q4vbdRjsydofVa--QBONJzYFzY3O
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLhVcAAAAAQAAAAEAAAAAAAAAAE9Cdw6F2mClNvIaCBEeunjJoPegNZ7GsDDggvLrZtJF
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667980894 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912301922 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnfKVAAAAAQAAAAEAAAAAAAAAACOa3wSqPLCLfcc_q4vbdRjsydofVa--QBONJzYFzY3O
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667983961 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSni6tAAAAAQAAAAEAAAAAAAAAALTxksVD7OXwDq4DCLQDJBl4brScNgipvTOesXP8Uz9p
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLhVcAAAAAQAAAAEAAAAAAAAAAE9Cdw6F2mClNvIaCBEeunjJoPegNZ7GsDDggvLrZtJF
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667987092 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912304991 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSni6tAAAAAQAAAAEAAAAAAAAAALTxksVD7OXwDq4DCLQDJBl4brScNgipvTOesXP8Uz9p
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667990163 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSni6tAAAAAQAAAAEAAAAAAAAAALTxksVD7OXwDq4DCLQDJBl4brScNgipvTOesXP8Uz9p
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLhVcAAAAAQAAAAEAAAAAAAAAAE9Cdw6F2mClNvIaCBEeunjJoPegNZ7GsDDggvLrZtJF
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667993223 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912308059 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSni6tAAAAAQAAAAEAAAAAAAAAALTxksVD7OXwDq4DCLQDJBl4brScNgipvTOesXP8Uz9p
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667996281 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSni6tAAAAAQAAAAEAAAAAAAAAALTxksVD7OXwDq4DCLQDJBl4brScNgipvTOesXP8Uz9p
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLhVcAAAAAQAAAAEAAAAAAAAAAE9Cdw6F2mClNvIaCBEeunjJoPegNZ7GsDDggvLrZtJF
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723667999342 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912311134 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnmrFAAAAAQAAAAEAAAAAAAAAANy6J6W0CgqMdJdpaGLdeVlN-T9T_P4liiC8OOjtotUX
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668002496 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnmrFAAAAAQAAAAEAAAAAAAAAANy6J6W0CgqMdJdpaGLdeVlN-T9T_P4liiC8OOjtotUX
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLlGKAAAAAQAAAAEAAAAAAAAAAMmtbCMivHjydc86LMEOD7WPvshCoNE9yBG4BYYmidAQ
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668005560 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912314256 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnmrFAAAAAQAAAAEAAAAAAAAAANy6J6W0CgqMdJdpaGLdeVlN-T9T_P4liiC8OOjtotUX
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668008617 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnmrFAAAAAQAAAAEAAAAAAAAAANy6J6W0CgqMdJdpaGLdeVlN-T9T_P4liiC8OOjtotUX
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLlGKAAAAAQAAAAEAAAAAAAAAAMmtbCMivHjydc86LMEOD7WPvshCoNE9yBG4BYYmidAQ
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668011679 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912317326 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnmrFAAAAAQAAAAEAAAAAAAAAANy6J6W0CgqMdJdpaGLdeVlN-T9T_P4liiC8OOjtotUX
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668014749 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnqbyAAAAAQAAAAEAAAAAAAAAABcXLOg_6DUFkajS2tM-tzqHd3o6cFY7raYYDQj8kqr_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLlGKAAAAAQAAAAEAAAAAAAAAAMmtbCMivHjydc86LMEOD7WPvshCoNE9yBG4BYYmidAQ
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668017875 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912320390 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnqbyAAAAAQAAAAEAAAAAAAAAABcXLOg_6DUFkajS2tM-tzqHd3o6cFY7raYYDQj8kqr_
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668020956 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnqbyAAAAAQAAAAEAAAAAAAAAABcXLOg_6DUFkajS2tM-tzqHd3o6cFY7raYYDQj8kqr_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLlGKAAAAAQAAAAEAAAAAAAAAAMmtbCMivHjydc86LMEOD7WPvshCoNE9yBG4BYYmidAQ
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668024044 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912323461 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnqbyAAAAAQAAAAEAAAAAAAAAABcXLOg_6DUFkajS2tM-tzqHd3o6cFY7raYYDQj8kqr_
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668027110 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnqbyAAAAAQAAAAEAAAAAAAAAABcXLOg_6DUFkajS2tM-tzqHd3o6cFY7raYYDQj8kqr_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLlGKAAAAAQAAAAEAAAAAAAAAAMmtbCMivHjydc86LMEOD7WPvshCoNE9yBG4BYYmidAQ
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668030171 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912326525 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnuM1AAAAAQAAAAEAAAAAAAAAALialqIa1lx8NOUc2iKbhUh29EsRt_cBRxNDrf53W1fd
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668033301 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnuM1AAAAAQAAAAEAAAAAAAAAALialqIa1lx8NOUc2iKbhUh29EsRt_cBRxNDrf53W1fd
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLo2qAAAAAQAAAAEAAAAAAAAAAAPfbJruzHYbk0LQUbyleFPNmYQNcKmhLW2IJ41hZ8Rz
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668036358 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912329639 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnuM1AAAAAQAAAAEAAAAAAAAAALialqIa1lx8NOUc2iKbhUh29EsRt_cBRxNDrf53W1fd
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668039419 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnuM1AAAAAQAAAAEAAAAAAAAAALialqIa1lx8NOUc2iKbhUh29EsRt_cBRxNDrf53W1fd
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLo2qAAAAAQAAAAEAAAAAAAAAAAPfbJruzHYbk0LQUbyleFPNmYQNcKmhLW2IJ41hZ8Rz
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668042476 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912332699 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnuM1AAAAAQAAAAEAAAAAAAAAALialqIa1lx8NOUc2iKbhUh29EsRt_cBRxNDrf53W1fd
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668045566 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnx9eAAAAAQAAAAEAAAAAAAAAAK9EAaN0xHRr0VIMpuJa3cai4d7h4gvZZfGNQw2RoqXv
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLo2qAAAAAQAAAAEAAAAAAAAAAAPfbJruzHYbk0LQUbyleFPNmYQNcKmhLW2IJ41hZ8Rz
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668048722 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912335765 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnx9eAAAAAQAAAAEAAAAAAAAAAK9EAaN0xHRr0VIMpuJa3cai4d7h4gvZZfGNQw2RoqXv
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668051791 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnx9eAAAAAQAAAAEAAAAAAAAAAK9EAaN0xHRr0VIMpuJa3cai4d7h4gvZZfGNQw2RoqXv
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLo2qAAAAAQAAAAEAAAAAAAAAAAPfbJruzHYbk0LQUbyleFPNmYQNcKmhLW2IJ41hZ8Rz
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668054849 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912338830 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnx9eAAAAAQAAAAEAAAAAAAAAAK9EAaN0xHRr0VIMpuJa3cai4d7h4gvZZfGNQw2RoqXv
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668057948 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnx9eAAAAAQAAAAEAAAAAAAAAAK9EAaN0xHRr0VIMpuJa3cai4d7h4gvZZfGNQw2RoqXv
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLo2qAAAAAQAAAAEAAAAAAAAAAAPfbJruzHYbk0LQUbyleFPNmYQNcKmhLW2IJ41hZ8Rz
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668061016 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912341902 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSn1uvAAAAAQAAAAEAAAAAAAAAAN4U-WgCexssOnAsFK1uV7T0lVQ37hjnfDeSLi0DGy7x
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668064142 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSn1uvAAAAAQAAAAEAAAAAAAAAAN4U-WgCexssOnAsFK1uV7T0lVQ37hjnfDeSLi0DGy7x
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLsnBAAAAAQAAAAEAAAAAAAAAAMlwlUMb2Ti-4RPoJzji7blrrdRGzGQJjXgO1EkmA0jl
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668067202 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912345030 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSn1uvAAAAAQAAAAEAAAAAAAAAAN4U-WgCexssOnAsFK1uV7T0lVQ37hjnfDeSLi0DGy7x
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668070270 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSn1uvAAAAAQAAAAEAAAAAAAAAAN4U-WgCexssOnAsFK1uV7T0lVQ37hjnfDeSLi0DGy7x
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLsnBAAAAAQAAAAEAAAAAAAAAAMlwlUMb2Ti-4RPoJzji7blrrdRGzGQJjXgO1EkmA0jl
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668060861 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912348093 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSnyrMAAAAAQAAAAEAAAAAAAAAAHPaqBLkS_ATdkxuZkAeaOsL6D4x2pGPaRvKWPKUlgWq
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668063920 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSn2b7AAAAAQAAAAEAAAAAAAAAAIGlzW-mCU6xyQ8HqvAdwqMpdQVarO0lcxNB9vwtScBQ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLsnBAAAAAQAAAAEAAAAAAAAAAMlwlUMb2Ti-4RPoJzji7blrrdRGzGQJjXgO1EkmA0jl
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668067042 tunnel running, 1 tunnels registered
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912351180 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSn2b7AAAAAQAAAAEAAAAAAAAAAIGlzW-mCU6xyQ8HqvAdwqMpdQVarO0lcxNB9vwtScBQ
-
-TUNNELS
-instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723668070109 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFSn2b7AAAAAQAAAAEAAAAAAAAAAIGlzW-mCU6xyQ8HqvAdwqMpdQVarO0lcxNB9vwtScBQ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLsnBAAAAAQAAAAEAAAAAAAAAAMlwlUMb2Ti-4RPoJzji7blrrdRGzGQJjXgO1EkmA0jl
 
 TUNNELS
 instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912354243 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLsnBAAAAAQAAAAEAAAAAAAAAAMlwlUMb2Ti-4RPoJzji7blrrdRGzGQJjXgO1EkmA0jl
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912357315 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLwXyAAAAAQAAAAEAAAAAAAAAACaFLMSqzmkIMnNpbYrlyF6zpcbugc5ODLA8xOImPzYP
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912360438 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLwXyAAAAAQAAAAEAAAAAAAAAACaFLMSqzmkIMnNpbYrlyF6zpcbugc5ODLA8xOImPzYP
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912363507 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLwXyAAAAAQAAAAEAAAAAAAAAACaFLMSqzmkIMnNpbYrlyF6zpcbugc5ODLA8xOImPzYP
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912366581 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLwXyAAAAAQAAAAEAAAAAAAAAACaFLMSqzmkIMnNpbYrlyF6zpcbugc5ODLA8xOImPzYP
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912369650 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhLwXyAAAAAQAAAAEAAAAAAAAAACaFLMSqzmkIMnNpbYrlyF6zpcbugc5ODLA8xOImPzYP
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912372714 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL0IXAAAAAQAAAAEAAAAAAAAAAEpUmppbX178MZccbTT98Trw5JN4xEvw8WpSqRqZyO0H
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912375844 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL0IXAAAAAQAAAAEAAAAAAAAAAEpUmppbX178MZccbTT98Trw5JN4xEvw8WpSqRqZyO0H
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912378904 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL0IXAAAAAQAAAAEAAAAAAAAAAEpUmppbX178MZccbTT98Trw5JN4xEvw8WpSqRqZyO0H
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912381966 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL0IXAAAAAQAAAAEAAAAAAAAAAEpUmppbX178MZccbTT98Trw5JN4xEvw8WpSqRqZyO0H
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912385033 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL0IXAAAAAQAAAAEAAAAAAAAAAEpUmppbX178MZccbTT98Trw5JN4xEvw8WpSqRqZyO0H
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912388100 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL340AAAAAQAAAAEAAAAAAAAAAJSIEId3ZkDR1XiV6YTObgk5WYxas7dN0mblpPmDFYiz
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912391224 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL340AAAAAQAAAAEAAAAAAAAAAJSIEId3ZkDR1XiV6YTObgk5WYxas7dN0mblpPmDFYiz
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912394285 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL340AAAAAQAAAAEAAAAAAAAAAJSIEId3ZkDR1XiV6YTObgk5WYxas7dN0mblpPmDFYiz
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912397366 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL340AAAAAQAAAAEAAAAAAAAAAJSIEId3ZkDR1XiV6YTObgk5WYxas7dN0mblpPmDFYiz
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912400592 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL340AAAAAQAAAAEAAAAAAAAAAJSIEId3ZkDR1XiV6YTObgk5WYxas7dN0mblpPmDFYiz
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912403658 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL7r9AAAAAQAAAAEAAAAAAAAAAIEv3DlQ1mSUk9HC3u2XdnLymZkWjIx_JzJXfouBYmoB
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912406782 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL7r9AAAAAQAAAAEAAAAAAAAAAIEv3DlQ1mSUk9HC3u2XdnLymZkWjIx_JzJXfouBYmoB
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912409845 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL7r9AAAAAQAAAAEAAAAAAAAAAIEv3DlQ1mSUk9HC3u2XdnLymZkWjIx_JzJXfouBYmoB
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912412915 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL7r9AAAAAQAAAAEAAAAAAAAAAIEv3DlQ1mSUk9HC3u2XdnLymZkWjIx_JzJXfouBYmoB
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912415977 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL7r9AAAAAQAAAAEAAAAAAAAAAIEv3DlQ1mSUk9HC3u2XdnLymZkWjIx_JzJXfouBYmoB
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912419045 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL_cSAAAAAQAAAAEAAAAAAAAAAPYQvrPgshUukcM6gW_5QcaneNX8WsybaFF_OTRXP13D
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912422158 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL_cSAAAAAQAAAAEAAAAAAAAAAPYQvrPgshUukcM6gW_5QcaneNX8WsybaFF_OTRXP13D
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912425218 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL_cSAAAAAQAAAAEAAAAAAAAAAPYQvrPgshUukcM6gW_5QcaneNX8WsybaFF_OTRXP13D
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912428280 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL_cSAAAAAQAAAAEAAAAAAAAAAPYQvrPgshUukcM6gW_5QcaneNX8WsybaFF_OTRXP13D
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912431340 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhL_cSAAAAAQAAAAEAAAAAAAAAAPYQvrPgshUukcM6gW_5QcaneNX8WsybaFF_OTRXP13D
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912434400 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMDMOAAAAAQAAAAEAAAAAAAAAAOXhLmU6zPOSCGkTiZdXHpNoYRylGd5mBcTIls_i3V7I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912437533 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMDMOAAAAAQAAAAEAAAAAAAAAAOXhLmU6zPOSCGkTiZdXHpNoYRylGd5mBcTIls_i3V7I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912440602 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMDMOAAAAAQAAAAEAAAAAAAAAAOXhLmU6zPOSCGkTiZdXHpNoYRylGd5mBcTIls_i3V7I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912443668 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMDMOAAAAAQAAAAEAAAAAAAAAAOXhLmU6zPOSCGkTiZdXHpNoYRylGd5mBcTIls_i3V7I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912446751 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMDMOAAAAAQAAAAEAAAAAAAAAAOXhLmU6zPOSCGkTiZdXHpNoYRylGd5mBcTIls_i3V7I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912449819 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMG9OAAAAAQAAAAEAAAAAAAAAAFZUx2j9mvPrscgZI1KYCuy1HvdCaNPSvXFq1XKf0dEJ
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912452946 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMG9OAAAAAQAAAAEAAAAAAAAAAFZUx2j9mvPrscgZI1KYCuy1HvdCaNPSvXFq1XKf0dEJ
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912456008 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMG9OAAAAAQAAAAEAAAAAAAAAAFZUx2j9mvPrscgZI1KYCuy1HvdCaNPSvXFq1XKf0dEJ
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912459068 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMG9OAAAAAQAAAAEAAAAAAAAAAFZUx2j9mvPrscgZI1KYCuy1HvdCaNPSvXFq1XKf0dEJ
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912462129 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMG9OAAAAAQAAAAEAAAAAAAAAAFZUx2j9mvPrscgZI1KYCuy1HvdCaNPSvXFq1XKf0dEJ
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912465189 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMKtUAAAAAQAAAAEAAAAAAAAAAHXUxxgFAC8BjwbjEkv1daRYgN573E4gBctU8P9ZN2sE
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912468313 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMKtUAAAAAQAAAAEAAAAAAAAAAHXUxxgFAC8BjwbjEkv1daRYgN573E4gBctU8P9ZN2sE
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912471375 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMKtUAAAAAQAAAAEAAAAAAAAAAHXUxxgFAC8BjwbjEkv1daRYgN573E4gBctU8P9ZN2sE
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912474439 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMKtUAAAAAQAAAAEAAAAAAAAAAHXUxxgFAC8BjwbjEkv1daRYgN573E4gBctU8P9ZN2sE
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912477497 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMKtUAAAAAQAAAAEAAAAAAAAAAHXUxxgFAC8BjwbjEkv1daRYgN573E4gBctU8P9ZN2sE
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912480580 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMOd2AAAAAQAAAAEAAAAAAAAAAECYiSD67NORnNW_fVixk3U6y8FCJaxnqU_ahQZTH8YR
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912483703 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMOd2AAAAAQAAAAEAAAAAAAAAAECYiSD67NORnNW_fVixk3U6y8FCJaxnqU_ahQZTH8YR
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912486763 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMOd2AAAAAQAAAAEAAAAAAAAAAECYiSD67NORnNW_fVixk3U6y8FCJaxnqU_ahQZTH8YR
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912489824 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMOd2AAAAAQAAAAEAAAAAAAAAAECYiSD67NORnNW_fVixk3U6y8FCJaxnqU_ahQZTH8YR
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912492889 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMOd2AAAAAQAAAAEAAAAAAAAAAECYiSD67NORnNW_fVixk3U6y8FCJaxnqU_ahQZTH8YR
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912495956 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMSOFAAAAAQAAAAEAAAAAAAAAALRgIS6U5alDnD9148G9Jqc25JGX5Ra7sHfLRHtkcoJn
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912499077 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMSOFAAAAAQAAAAEAAAAAAAAAALRgIS6U5alDnD9148G9Jqc25JGX5Ra7sHfLRHtkcoJn
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912502136 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMSOFAAAAAQAAAAEAAAAAAAAAALRgIS6U5alDnD9148G9Jqc25JGX5Ra7sHfLRHtkcoJn
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912505201 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMSOFAAAAAQAAAAEAAAAAAAAAALRgIS6U5alDnD9148G9Jqc25JGX5Ra7sHfLRHtkcoJn
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912508271 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMSOFAAAAAQAAAAEAAAAAAAAAALRgIS6U5alDnD9148G9Jqc25JGX5Ra7sHfLRHtkcoJn
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912511340 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMV-hAAAAAQAAAAEAAAAAAAAAAC3VFsxaCCk3FohYiEorSZDvR7pQmAktKRVzn-Ucs1ec
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912514469 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMV-hAAAAAQAAAAEAAAAAAAAAAC3VFsxaCCk3FohYiEorSZDvR7pQmAktKRVzn-Ucs1ec
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912517544 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMV-hAAAAAQAAAAEAAAAAAAAAAC3VFsxaCCk3FohYiEorSZDvR7pQmAktKRVzn-Ucs1ec
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912520611 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMV-hAAAAAQAAAAEAAAAAAAAAAC3VFsxaCCk3FohYiEorSZDvR7pQmAktKRVzn-Ucs1ec
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912523672 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMV-hAAAAAQAAAAEAAAAAAAAAAC3VFsxaCCk3FohYiEorSZDvR7pQmAktKRVzn-Ucs1ec
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912526733 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMZu8AAAAAQAAAAEAAAAAAAAAALiu8At1YliPteUfZLNhSlXqU2lc4FIuF3bk1RGKC2Wr
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912529878 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMZu8AAAAAQAAAAEAAAAAAAAAALiu8At1YliPteUfZLNhSlXqU2lc4FIuF3bk1RGKC2Wr
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912532945 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMZu8AAAAAQAAAAEAAAAAAAAAALiu8At1YliPteUfZLNhSlXqU2lc4FIuF3bk1RGKC2Wr
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912536017 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMZu8AAAAAQAAAAEAAAAAAAAAALiu8At1YliPteUfZLNhSlXqU2lc4FIuF3bk1RGKC2Wr
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912539080 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMZu8AAAAAQAAAAEAAAAAAAAAALiu8At1YliPteUfZLNhSlXqU2lc4FIuF3bk1RGKC2Wr
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912542149 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMdf5AAAAAQAAAAEAAAAAAAAAAH5cHGa4zgHWxw2oCUMHmR-h9pBYavxOa3bLJ1UezSEV
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912545268 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMdf5AAAAAQAAAAEAAAAAAAAAAH5cHGa4zgHWxw2oCUMHmR-h9pBYavxOa3bLJ1UezSEV
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912548340 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMdf5AAAAAQAAAAEAAAAAAAAAAH5cHGa4zgHWxw2oCUMHmR-h9pBYavxOa3bLJ1UezSEV
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912551403 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMdf5AAAAAQAAAAEAAAAAAAAAAH5cHGa4zgHWxw2oCUMHmR-h9pBYavxOa3bLJ1UezSEV
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912554466 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMdf5AAAAAQAAAAEAAAAAAAAAAH5cHGa4zgHWxw2oCUMHmR-h9pBYavxOa3bLJ1UezSEV
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912557592 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMhSLAAAAAQAAAAEAAAAAAAAAAP_1b1XPHQtj_eaOmbbj_HokNuYvUG-0vYxRqz_yMO4I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912560828 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMhSLAAAAAQAAAAEAAAAAAAAAAP_1b1XPHQtj_eaOmbbj_HokNuYvUG-0vYxRqz_yMO4I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912563892 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMhSLAAAAAQAAAAEAAAAAAAAAAP_1b1XPHQtj_eaOmbbj_HokNuYvUG-0vYxRqz_yMO4I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912566963 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMhSLAAAAAQAAAAEAAAAAAAAAAP_1b1XPHQtj_eaOmbbj_HokNuYvUG-0vYxRqz_yMO4I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912570033 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMhSLAAAAAQAAAAEAAAAAAAAAAP_1b1XPHQtj_eaOmbbj_HokNuYvUG-0vYxRqz_yMO4I
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912573096 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMlDXAAAAAQAAAAEAAAAAAAAAAChdDjwX-UF8z80STu5Zuqp_TocCCD2emY9s7o4Mx9_J
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912576226 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMlDXAAAAAQAAAAEAAAAAAAAAAChdDjwX-UF8z80STu5Zuqp_TocCCD2emY9s7o4Mx9_J
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912579288 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMlDXAAAAAQAAAAEAAAAAAAAAAChdDjwX-UF8z80STu5Zuqp_TocCCD2emY9s7o4Mx9_J
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912582355 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMlDXAAAAAQAAAAEAAAAAAAAAAChdDjwX-UF8z80STu5Zuqp_TocCCD2emY9s7o4Mx9_J
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912585419 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMlDXAAAAAQAAAAEAAAAAAAAAAChdDjwX-UF8z80STu5Zuqp_TocCCD2emY9s7o4Mx9_J
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912588488 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMoz3AAAAAQAAAAEAAAAAAAAAAO5B-xzmLBhEBbU11yebpbz1iDMhSU2jqo5a2n1YVVP0
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912591616 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMoz3AAAAAQAAAAEAAAAAAAAAAO5B-xzmLBhEBbU11yebpbz1iDMhSU2jqo5a2n1YVVP0
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.19): 1723912594682 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAtCagAAAZFhMoz3AAAAAQAAAAEAAAAAAAAAAO5B-xzmLBhEBbU11yebpbz1iDMhSU2jqo5a2n1YVVP0
+
+TUNNELS
+instead-burn.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+style-cameras.gl.at.ply.gg:4994 => 127.0.0.1:4994 (minecraft-bedrock)
+ltd-chem.gl.at.ply.gg:4995 => 127.0.0.1:4995 (proto: Udp, port count: 1)
